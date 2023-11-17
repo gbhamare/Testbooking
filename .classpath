@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/jars2/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/ci-environment-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/cucumber-core-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/cucumber-expressions-16.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/cucumber-gherkin-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/cucumber-gherkin-messages-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/cucumber-java-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/cucumber-plugin-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/datatable-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/docstring-7.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/gherkin-26.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/html-formatter-20.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/junit-xml-formatter-0.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/messages-22.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars2/tag-expressions-5.0.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
